@@ -2,6 +2,8 @@
 
 This repository contains implementations of creating and visualizing Voronoi-diagrams in C++ with OpenMP and OpenACC. 
 
+![](example.png)
+
 ## Requirements
 This project needs to compiled first. Therefore it is necessary, that
 - cmake
